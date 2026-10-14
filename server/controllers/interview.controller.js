@@ -146,6 +146,7 @@ Strict Rules:
 - One question per line only.
 - Keep language simple and conversational.
 - Questions must feel practical and realistic.
+- **All questions must be technical or coding related, focusing on the candidate's role, experience, projects, skills, and resume details.**
 
 Difficulty progression:
 Question 1 → easy  
